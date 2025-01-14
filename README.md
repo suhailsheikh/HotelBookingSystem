@@ -40,3 +40,15 @@ This guide will help you clone a public GitHub repository containing the C# cons
    dotnet run
 
 Alternatively, run **HotelBookingSystem.exe** from `bin/Debug/net8.0`
+
+When you run the application, you will be presented with this screen **(see below)**. Please enter the input command like so:
+
+![image](https://github.com/user-attachments/assets/06bf0837-93c3-46a1-841c-caab43908d47)
+
+## Input Commands
+
+**Here are the input commands you can use:**
+
+- Availability(H1, 20240901, SGL)
+- Availability(H1, 20240901-20240903, DBL)
+- Search(H1, 365, SGL)
